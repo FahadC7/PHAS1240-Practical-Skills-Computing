@@ -1,0 +1,8 @@
+# A sample file with data
+# Lines that start with # are comments and not read in.
+0.0
+2.5
+4.6
+8.6
+10.34
+15.42
